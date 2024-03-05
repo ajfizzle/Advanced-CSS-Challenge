@@ -8,6 +8,7 @@ Project Name: Professional Portfolio
 - Installation & Usage
 - Screenshot
 - Contact
+- Reference
 - License
 
 ## Description
@@ -32,6 +33,10 @@ This is a personal portfolio website showcasing Joel Azeta's professional backgr
 ## Contact:
 Feel free to reach out to Joel Azeta through the contact information provided on the website or through his social media profiles if you have any questions or feedback.
 
+## Reference:
+ - https://www.w3schools.com/howto/howto_css_vertical_line.asp
+ - UT Austin Bootcamp - UTA-VIRT-FSF-PT-02-2024-U-LOLC
+ - https://html-color.codes/
+
 ## License
 This code is provided under an open-source license (to be determined). Please refer to the license file for specific terms and conditions.
-
