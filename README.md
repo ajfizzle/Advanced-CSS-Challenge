@@ -28,7 +28,7 @@ This is a personal portfolio website showcasing Joel Azeta's professional backgr
 
     3. Explore the various sections of the portfolio.
 ## Screenshot
-![alt text](image.png)
+![alt text](image-1.png)
 
 ## Contact:
 Feel free to reach out to Joel Azeta through the contact information provided on the website or through his social media profiles if you have any questions or feedback.
