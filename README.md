@@ -1,6 +1,8 @@
-# Advanced-CSS-Challenge
+## Advanced-CSS-Challenge
 Bootcamp HTML /CSS exercise - Module 2 Challenge
-Project Name: Professional Portfolio
+
+
+## Project Name: Professional Portfolio
 
 ## Table of Contents
 - Description
