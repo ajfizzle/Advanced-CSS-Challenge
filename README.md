@@ -1,5 +1,5 @@
 ## Advanced-CSS-Challenge
-Bootcamp HTML /CSS exercise - Module 2 Challenge
+Module 2 Challenge
 
 
 ## Project Name: Professional Portfolio
